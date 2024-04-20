@@ -1,4 +1,5 @@
-# EX : 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# EX:2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## DATE:05.03.2024
 ## AIM
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
